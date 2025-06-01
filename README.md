@@ -30,8 +30,6 @@ Our experiments demonstrate that RelSTM generalizes better than standard LSTM mo
 - ✅ Better generalization on time series data  
 - ✅ Reduced parameter count compared to standard LSTM  
 
-## 📁 Structure
-
-```bash
-.
+## 📁 How To Use
+just run flstm_lstm.ipynb cells .
 
