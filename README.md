@@ -34,9 +34,4 @@ Our experiments demonstrate that RelSTM generalizes better than standard LSTM mo
 
 ```bash
 .
-├── model/                # Implementation of RelSTM and LSTM
-├── data/                 # Dataset used for training and evaluation
-├── results/              # Output metrics and plots
-├── paper/                # LaTeX source of the academic paper
-├── README.md
-└── requirements.txt      # Required Python packages
+
